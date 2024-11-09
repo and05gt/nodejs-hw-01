@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "f77f155e-a816-464f-b971-bb60b8ddc8ab",
+    "name": "Brenda Russel",
+    "phone": "264.599.8587 x306",
+    "email": "Mariela.Turner9@gmail.com",
+    "job": "Senior Group Orchestrator"
+  },
+  {
+    "id": "a97cc352-07cf-43fb-9646-184c47cd7d38",
+    "name": "Dr. Jesse Carroll",
+    "phone": "(695) 938-1224 x523",
+    "email": "Reuben_Mohr97@gmail.com",
+    "job": "National Directives Technician"
+  },
+  {
+    "id": "a905274a-3f0e-4618-847b-44d3d3981963",
+    "name": "Miss Cynthia Rowe PhD",
+    "phone": "323-689-2682 x387",
+    "email": "Elyse_OKeefe85@gmail.com",
+    "job": "Regional Directives Architect"
+  },
+  {
+    "id": "a8d0c4b0-c27c-4a59-b6c6-9cfa07e5ffa3",
+    "name": "Lila Reinger",
+    "phone": "959.548.5181 x37370",
+    "email": "Dena.Carroll62@gmail.com",
+    "job": "Central Accountability Planner"
+  },
+  {
+    "id": "2dce0590-a310-41fc-b408-56aeb6a6c6e9",
+    "name": "Billie Rau DDS",
+    "phone": "(755) 824-1376",
+    "email": "Gilbert82@yahoo.com",
+    "job": "Corporate Optimization Developer"
+  }
+]
